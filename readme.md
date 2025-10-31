@@ -145,7 +145,6 @@ cc linux.c
 
 # Create necessary data files
 data.txt
-log.txt
 
 ```
 
