@@ -220,11 +220,3 @@ RAVI KUMAR   | 4500A26F | 2025-10-30 05:07:12 | OUT
 - ✅ Expandable employee database
 
 ---
-
-## 👨‍💻 Author
-
-** Vijay Magadum **
-
-** Vector India **
-
----
